@@ -1,41 +1,15 @@
 [
 	{
-		"date": "6",
+		"date": "4",
 		"title": "Lead Full Stack Engineer",
 		"company": "School Simplified",
 		"location": "Remote",
-		"range": "June 2021 - Current",
+		"range": "February 2021 - Current",
 		"url": "https://schoolsimplified.org/",
 		"content": [
 			"Non-profit organization helping students with their education needs",
 			"Organization has helped of a quarter million students with their education successes",
 			"Worked with students and developers to make a stunning website"
-		]
-	},
-	{
-		"date": "5",
-		"title": "Full Stack Engineer",
-		"company": "Periodize",
-		"location": "Remote",
-		"range": "May 2021 - Current",
-		"url": "https://periodize.org/",
-		"content": [
-			"Company based on fitness and health",
-			"Working with a team of developers using NextJS and React",
-			"My current position"
-		]
-	},
-	{
-		"date": "4",
-		"title": "Co-founder",
-		"company": "WebDefyer",
-		"location": "Remote",
-		"range": "December 2020 - Present",
-		"url": "https://webdefyer.com/",
-		"content": [
-			"Development based on company freelancing.",
-			"Lead Developer, working to build websites for numerous clients",
-			"Working in NextJS, Django and more"
 		]
 	},
 	{
@@ -54,7 +28,7 @@
 		"title": "Front-end Developer",
 		"company": "Sparks VB Club",
 		"location": "Remote",
-		"range": "October  - December 2020",
+		"range": "October 2020 - Current",
 		"url": "https://sparksvolleyballclub.com/",
 		"content": [
 			"Worked Directly with a partner and client to develop a reactive website"
@@ -65,7 +39,7 @@
 		"title": "Front-end Developer Intern",
 		"company": "The E-sports Company",
 		"location": "Remote",
-		"range": "September - December 2020",
+		"range": "September - October 2020",
 		"url": "https://www.theesportcompany.com/",
 		"content": [
 			"Worked directly with CEO and mentor to build a Wordpress Website"
