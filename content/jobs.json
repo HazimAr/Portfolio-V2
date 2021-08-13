@@ -1,6 +1,6 @@
 [
 	{
-		"date": "4",
+		"date": "3",
 		"title": "Lead Full Stack Engineer",
 		"company": "School Simplified",
 		"location": "Remote",
@@ -10,17 +10,6 @@
 			"Non-profit organization helping students with their education needs",
 			"Organization has helped of a quarter million students with their education successes",
 			"Worked with students and developers to make a stunning website"
-		]
-	},
-	{
-		"date": "3",
-		"title": "Front-end Developer",
-		"company": "NVC",
-		"location": "Remote",
-		"range": "December 2020 - February 2021",
-		"url": "/#",
-		"content": [
-			"Worked Directly with a partner and client to develop a reactive website"
 		]
 	},
 	{
