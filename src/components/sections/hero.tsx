@@ -5,7 +5,6 @@ import { CSSTransition, TransitionGroup } from "react-transition-group";
 import styled from "styled-components";
 import { siteData } from "../../config";
 
-
 const StyledHeroSection = styled.section`
 	${({ theme }) => theme.mixins.flexCenter};
 	flex-direction: column;

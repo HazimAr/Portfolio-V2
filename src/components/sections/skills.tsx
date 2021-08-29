@@ -20,7 +20,7 @@ const skills: Skill[] = [
 ];
 const Container = styled.div``;
 const Card = styled.div`
-    display:flex;
+	display: flex;
 `;
 export default function Skills(): JSX.Element {
 	return (

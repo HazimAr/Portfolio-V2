@@ -3,7 +3,6 @@ import sr from "@utils/sr";
 import Image from "next/image";
 import React, { useEffect, useRef } from "react";
 import styled from "styled-components";
-
 import { siteData } from "../../config";
 
 const StyledAboutSection = styled.section`

@@ -2,9 +2,8 @@
 /* eslint-disable react/no-array-index-key */
 import Head from "next/head";
 import Link from "next/link";
-import { useState, useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import styled from "styled-components";
-
 import { siteData } from "../config";
 import { useOnClickOutside } from "../hooks";
 

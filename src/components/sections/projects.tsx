@@ -2,10 +2,9 @@
 /* eslint-disable react/no-danger */
 import { Icon } from "@components/icons";
 import sr from "@utils/sr";
-import React, { useState, useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 import styled from "styled-components";
-
 import projectData from "../../../content/projects.json";
 import { siteData } from "../../config";
 

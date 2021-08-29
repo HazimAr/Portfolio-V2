@@ -54,9 +54,9 @@ export default function Contact(): JSX.Element {
 			<h2 className="title">Get In Touch</h2>
 
 			<p>
-				I am a Full Stack Developer. Feel free to send me a
-				message for possible inquires, collaborations, or projects. My
-				inbox is always open. Say Hello!
+				I am a Full Stack Developer. Feel free to send me a message for
+				possible inquires, collaborations, or projects. My inbox is
+				always open. Say Hello!
 			</p>
 
 			<a className="email-link" href={`mailto:${siteData.email}`}>

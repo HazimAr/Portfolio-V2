@@ -2,14 +2,12 @@
 /* eslint-disable @typescript-eslint/no-require-imports */
 import { GlobalStyle, theme } from "@styles/index";
 import { useRouter } from "next/router";
-import React, { useState, useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import styled, { ThemeProvider } from "styled-components";
-
+import { Footer, Loader, Side } from ".";
 import { siteData } from "../config";
 import { Icon } from "./icons";
 import Nav from "./nav";
-
-import { Loader, Footer, Side } from ".";
 
 if (typeof window !== "undefined") {
 	// eslint-disable-next-line global-require

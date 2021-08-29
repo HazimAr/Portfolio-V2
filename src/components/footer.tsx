@@ -3,7 +3,6 @@ import { Icon } from "@components/icons";
 import mixins from "@styles/mixins";
 import React from "react";
 import styled from "styled-components";
-
 import { siteData } from "../config";
 
 const StyledFooter = styled.footer`
