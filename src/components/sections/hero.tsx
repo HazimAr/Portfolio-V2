@@ -1,10 +1,10 @@
 /* eslint-disable react/no-array-index-key */
-import { navDelay, loaderDelay } from "@utils/index";
-import React, { useState, useEffect } from "react";
+import { loaderDelay, navDelay } from "@utils/index";
+import React, { useEffect, useState } from "react";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 import styled from "styled-components";
-
 import { siteData } from "../../config";
+
 
 const StyledHeroSection = styled.section`
 	${({ theme }) => theme.mixins.flexCenter};
