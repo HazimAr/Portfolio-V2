@@ -64,7 +64,7 @@ function Hero(): JSX.Element {
 	);
 	const five = (
 		<a href={`mailto:${siteData.email}`} className="email-link">
-			Get In Touch
+			Contact Me
 		</a>
 	);
 
