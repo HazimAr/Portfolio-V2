@@ -1,9 +1,8 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { loaderDelay } from "@utils/index";
-import {ReactNode, useState, useEffect } from "react";
+import { ReactNode, useEffect, useState } from "react";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 import styled from "styled-components";
-
 
 type Props = {
 	orientation: string;

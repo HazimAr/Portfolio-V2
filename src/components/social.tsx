@@ -1,11 +1,9 @@
 /* eslint-disable react/no-array-index-key */
 import React from "react";
 import styled from "styled-components";
-
+import { Side } from ".";
 import { siteData } from "../config";
 import { Icon } from "./icons";
-
-import { Side } from ".";
 
 const StyledSocialList = styled.ul`
 	display: flex;
