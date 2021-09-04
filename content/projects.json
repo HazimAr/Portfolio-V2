@@ -18,6 +18,17 @@
 		]
 	},
 	{
+		"date": "2",
+		"title": "Instadog",
+		"index": 1.5,
+		"cover": "instadog.png",
+		"github": "https://github.com/NikSchaefer/dogegram",
+		"external": "https://instadog.vercel.app/",
+		"tech": ["React", "Typescript", "Rest API", "NextJS"],
+		"showInProjects": true,
+		"content": "Instagram Clone but for Dogs! Like your posts and share them with url. Instadog utilizes a random dog Api for Images and videos while text is randomly generated. "
+	},
+	{
 		"text": "Machine Learning Model that will predict one day into the future of a crypto currency",
 		"date": "2021-6-28",
 		"index": 2,
