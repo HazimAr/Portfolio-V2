@@ -73,6 +73,8 @@ export default function Footer(): JSX.Element {
 					<a href="https://github.com/HazimAr">Hazim Arafa</a> and{" "}
 					<a href="https://github.com/NikSchaefer">Nik Schaefer</a>
 					<br />
+					Designed by{" "}
+					<a href="https://github.com/bchiang7">Brittany Chiang</a>
 				</p>
 			</StyledCredit>
 		</StyledFooter>
