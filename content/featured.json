@@ -3,7 +3,7 @@
 		"date":"0",
 		"title":"Programming Simplified",
 		"cover": "ps.png",
-		"external": "https://programmingsimplified.com",
+		"external": "https://programmingsimplified.org",
 		"tech": ["React", "NextJS", "Chakra UI", "Typescript", "MongoDB"],
 		"showInProjects": true,
 		"content": "Programming Simplified is a non-profit organization with the mission to help as many kids as possible learn the tools to become software engineers."
