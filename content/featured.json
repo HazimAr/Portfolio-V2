@@ -23,6 +23,7 @@
 		"date": "2",
 		"title":"Programming Simplified",
 		"cover": "ps.png",
+                "github": "https://github.com/HazimAr/Programming-Simplified",
 		"external": "https://programmingsimplified.org",
 		"tech": ["React", "NextJS", "Chakra UI", "Typescript", "MongoDB"],
 		"showInProjects": true,
