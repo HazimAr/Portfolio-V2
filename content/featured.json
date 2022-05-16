@@ -33,7 +33,6 @@
 		"date": "3",
 		"title": "Take The Throne",
 		"cover": "take.png",
-		"github": "https://github.com/HazimAr/Take-The-Throne",
 		"external": "https://take-the-throne.vercel.app/",
 		"tech": ["React", "Typescript", "NextJS", "Chakra UI"],
 		"showInProjects": true,
