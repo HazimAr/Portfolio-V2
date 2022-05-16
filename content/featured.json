@@ -44,7 +44,7 @@
 		"title": "Tic Tac Toe Multiplayer",
 		"cover": "tic.png",
 		"github": "https://github.com/HazimAr/Tic-Tac-Toe-Multiplayer",
-		"external": "https://tic-tac-toe-online.vercel.app",
+		"external": "https://ttt.hazim.tech",
 		"tech": ["React", "Typescript", "NextJS", "Chakra UI", "Web Sockets"],
 		"showInProjects": true,
 		"content": "Play tic tac toe multiplayer online with your friends in realtime using socket io on the server and the frontend, and change colors by going into your settings"
