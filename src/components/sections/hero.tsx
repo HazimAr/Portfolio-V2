@@ -58,7 +58,7 @@ function Hero(): JSX.Element {
 	const four = (
 		<p style={{ marginTop: "15px" }}>
 			I'm a self-taught full-stack engineer and hobbyist programmer
-			specializing in React and Golang.
+			specializing in React and NextJS.
 		</p>
 	);
 	const five = (
