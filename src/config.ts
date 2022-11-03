@@ -44,7 +44,7 @@ export const siteData = {
 		},
 		{
 			name: "LinkedIn",
-			url: "https://www.linkedin.com/in/hazim-arafa-a439aa205/",
+			url: "https://www.linkedin.com/in/hazim-arafa/",
 		},
 	],
 	colors: {
